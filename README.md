@@ -47,6 +47,9 @@ The 3-minute Traffic Control songs are played daily at:
 ## Author
 Premanandhan Narayanan
 
+## Documentation
+- [Automation Steps](./automation_steps.md)
+
 ## Links
 - YouTube Channel: [Divine Connectionz](https://www.youtube.com/channel/UCUdlewvf5aiwwG5AQ2v3Y0Q)
 - Related Project: [Raja Yoga Meditation Chatbot](https://github.com/rajiprem72/raja-yoga-meditation-chatbot)
